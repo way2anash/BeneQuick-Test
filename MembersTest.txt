@@ -1,0 +1,6 @@
+101396885   ALVA                     CAROLA                   4829 JAUREGUI BLVD            CORCORAN            IL  55357                          
+727344064   FASSETT                  DAINA                    8614 LIPSEY PKWY              LEWISTON            MN  55952                          
+222743521   MCSHANE                  MIKI                     2220 KIEL PKWY                ROCHERT             MN  56578                           
+101396885   ALVA                     CAROLA                   4829 JAUREGUI BLVD            CORCORAN            IL  55357                          
+727344064   FASSETT                  DAINA                    8614 LIPSEY PKWY              LEWISTON            MN  55952                          
+222743521   MCSHANE                  MIKI                     2220 KIEL PKWY                ROCHERT             MN  56578                          
